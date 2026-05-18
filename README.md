@@ -43,27 +43,6 @@ This repository contains my projects, exercises, and notes as I learn C and C++ 
 
 ---
 
-## Repository Structure
-
-```bash
-.
-├── c/
-│   ├── basics/
-│   ├── pointers/
-│   ├── data_structures/
-│   └── projects/
-│
-├── cpp/
-│   ├── oop/
-│   ├── stl/
-│   ├── algorithms/
-│   └── projects/
-│
-└── notes/
-```
-
----
-
 ## Tools & Environment
 
 - GCC / G++
