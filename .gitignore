@@ -1,4 +1,4 @@
-
+#Ignore Folders
 target/
 dbt_packages/
 logs/
@@ -7,3 +7,6 @@ venv/
 *.pyc
 __pycache__/
 .vscode/
+
+#Ignore Windows Executables
+*.exe
