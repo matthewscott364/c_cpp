@@ -18,4 +18,5 @@ int main() {
     else {
         printf("I hope you go back to school soon");
     }
+    return 0;
 }  
