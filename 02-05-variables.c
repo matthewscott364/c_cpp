@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Character variables utilizing strings.
+
 int main(){
     char name[] = "Matthew Scott";
     char food[] = "chicken";

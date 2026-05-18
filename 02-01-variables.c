@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Variables introducing integers.
+
 int main() {
     int age = 26;
     int year = 2026;

@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Variables introducing doubles aka long floats/decimals.
+
 int main() {
     double pi = 3.14159265358979;
     double e = 2.7182818284590;

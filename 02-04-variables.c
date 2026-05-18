@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Single character variables
+
 int main(){
     char grade = 'A';
     char symbol = '!';

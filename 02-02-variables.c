@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// Variables introducing floats aka decimals.
+
 int main () {
     float gpa = 3.05;
     float price = 19.99;
