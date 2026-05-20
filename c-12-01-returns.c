@@ -1,13 +1,17 @@
 #include <stdio.h>
 
+double cube(double num){
+    return num * num * num;
+}
+
 double square(double num) {
     return num * num;
 }
 
 int main () {
-    double x = square(2.1);
-    double y = square(3.2);
-    double z = square(4.3);
+    double x = cube(3);
+    double y = cube(6);
+    double z = cube(9);
 
     printf("%lf\n", x);
     printf("%lf\n", y);
