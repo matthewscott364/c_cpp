@@ -14,5 +14,11 @@ int main() {
     printf("Enter a symbol to use: ");
     scanf(" %c", &symbol);
 
+    for(int i = 0; i < rows; i++) {
+        for(int i = 0; i < columns; i++) {
+            printf("%c", symbol);
+        }
+        printf("\n");
+    }
     return 0;
 }
